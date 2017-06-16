@@ -56,8 +56,25 @@ textarea, input{
 footer{
   padding: 10px;
 }
-
-
+#alee{
+  background-color: rgba(255, 20, 147, 0.6);
+}
+.titulo-comentario{
+  color: black;
+  font-weight: 700;
+  font-style: italic;
+}
+.comentario{
+  color: black;
+  padding-left: 15px;
+}
+.btn-primary{
+  background-color: rgba(255, 20, 147, 0.9);
+  border: none;
+}
+.btn-primary:hover{
+  background-color: rgba(255, 20, 147, 0.6);
+}
 
 /* Estilos comentarios */
 
